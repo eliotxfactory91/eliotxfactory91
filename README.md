@@ -22,7 +22,7 @@
 
 - 🌟 Interested in writing clean and efficient code
 
-- 🏁 Becoming an expert in the smart factory field is my dream
+- 🏁 Becoming an expert in my field is my dream
   
  ---
 
