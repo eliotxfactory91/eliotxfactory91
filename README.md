@@ -29,10 +29,10 @@
 ### MAIN STACK🛠️
 **Languages & Frameworks**
 
-![Java](https://img.shields.io/badge/java-003366?style=for-the-badge&logo=CoffeeScript&logoColor=white)
+![Python](https://img.shields.io/badge/python-003366?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/csharp-68217A?style=for-the-badge&logo=sharp&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![Springboot](https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009485?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pytorch](https://img.shields.io/badge/pytorch-DE3412?style=for-the-badge&logo=pytorch&logoColor=white)
 
 **Infrastructure & Databases**
 
