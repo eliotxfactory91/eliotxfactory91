@@ -10,7 +10,6 @@
 
 <div align="left">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=eliotxfactory91&show_icons=true&theme=dracula" />
 
  ---
 
@@ -18,7 +17,7 @@
 
 - 💻 Focused on developing smart factory solutions
 
-- 🌱 Currently learning Spring, Springboot
+- 🌱 Currently learning Spring, SpringBoot, SpringSecurity
 
 - 🌟 Interested in writing clean and efficient code
 
@@ -27,19 +26,33 @@
  ---
 
 ### MAIN STACK🛠️
-**Languages & Frameworks**
+**Languages**
 
+![Java](https://img.shields.io/badge/java-E24301?style=for-the-badge&logo=CoffeeScript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-003366?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/csharp-68217A?style=for-the-badge&logo=sharp&logoColor=white)
+
+
+**Frameworks**
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
+![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-009485?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/pytorch-DE3412?style=for-the-badge&logo=pytorch&logoColor=white)
 
-**Infrastructure & Databases**
 
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Databases**
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-A91D22?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+
+**Infrastructures**
+
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 **Tools**
 
