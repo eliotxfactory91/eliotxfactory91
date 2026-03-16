@@ -17,7 +17,7 @@
 
 - 💻 Focused on developing smart factory solutions
 
-- 🌱 Currently learning Spring, SpringBoot, SpringSecurity
+- 🌱 Currently learning Computer Vision, Robot
 
 - 🌟 Interested in writing clean and efficient code
 
@@ -28,38 +28,32 @@
 ### MAIN STACK🛠️
 **Languages**
 
-![Java](https://img.shields.io/badge/java-E24301?style=for-the-badge&logo=CoffeeScript&logoColor=white)
-![Python](https://img.shields.io/badge/python-003366?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/csharp-68217A?style=for-the-badge&logo=sharp&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23EA9114.svg?logo=openjdk&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%237F5AB6.svg?logo=cshrp&logoColor=white)](#)
 
 
-**Frameworks**
+**Frameworks & Libraries**
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
-![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-009485?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pytorch](https://img.shields.io/badge/pytorch-DE3412?style=for-the-badge&logo=pytorch&logoColor=white)
-
+[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-A91D22?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
 
 **Infrastructures**
 
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
 **Tools**
 
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visualstudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)](#)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
+[![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
